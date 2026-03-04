@@ -79,7 +79,3 @@ python3 collector.py
 * MQTT cloud dashboard integration
 * Remaining Useful Life (RUL) estimation
 * Intelligent fault alert triggering
-
----
-
-If you want, I can also generate the actual **systemd service file template** you can include in your repo.

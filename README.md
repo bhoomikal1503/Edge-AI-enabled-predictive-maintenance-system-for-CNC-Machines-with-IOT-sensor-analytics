@@ -1,0 +1,2 @@
+# Edge-AI-enabled-predictive-maintenance-system-for-CNC-Machines-with-IOT-sensor-analytics
+Edge-AI based predictive maintenance system for CNC machines using Raspberry Pi. Collects vibration (MPU6050), temperature (DS18B20), and current (SCT-013 + ADS1115) data at 50Hz, logs timestamped readings, and enables real-time anomaly detection and edge ML deployment to reduce downtime and improve machine reliability.
